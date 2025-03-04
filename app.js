@@ -6,5 +6,5 @@ module.exports={
   }
 }
 const Colors = require('colors');
-console.log('hello world!!'.blue);
-console.log('okkkc')
+console.log('hello world!!'.yellow);
+console.log('okkkdfsdfdfc')
